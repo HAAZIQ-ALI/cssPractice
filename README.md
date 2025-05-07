@@ -2,3 +2,5 @@
 i am stupid :)
 ## 06 may learnt media queires
 i am having fun :)
+## 07 may learnt new things like header 
+its funn:)
